@@ -17,26 +17,8 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuc1dev&show_icons=true&theme=transparent)
 
-## 🌐 Connect with Me
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://fb.com/phuc1dev)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xyz.junomc@gmail.com)
-
-## 🛠️ Languages and Tools
-
-[WakaTime](https://wakatime.com/)
-
-```plaintext
-Languages:
-  - NodeJS
-  - PHP
-  - C#
-  - JavaScript
-  - HTML5
-  - CSS3
-
-Tools:
-  - MySQL
-  - MongoDB
-  - Visual Studio Code
-  - Git & GitHub
+[![Telegram](https://img.shields.io/badge/-Telegram-D14836?style=flat&logo=telegram&logoColor=white)](https://t.me/phuc1dev)
