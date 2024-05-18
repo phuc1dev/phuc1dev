@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuc1dev&show_icons=true&theme=transparent)
 
 ## 🌐 Connect with Me
 
