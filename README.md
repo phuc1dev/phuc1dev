@@ -40,6 +40,8 @@ Description of your project. What technologies it uses, what problem it solves, 
 
 ## 🛠️ Languages and Tools
 
+[WakaTime](https://wakatime.com/)
+
 ```plaintext
 Languages:
   - NodeJS
