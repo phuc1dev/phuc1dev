@@ -1,7 +1,6 @@
 ![header](https://raw.githubusercontent.com/phuc1dev/phuc1dev/main/assets/svg/header.svg)
 Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS**, **PHP** and **Java**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
-## 🔧 Technologies & Tools
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
