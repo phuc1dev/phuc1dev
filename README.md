@@ -1,5 +1,5 @@
 ![header](https://raw.githubusercontent.com/phuc1dev/phuc1dev/main/assets/svg/header.svg)
-![](https://komarev.com/ghpvc/?username=phuc1dev&label=PROFILE+VIEWS&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=phuc1dev&label=PROFILE+VIEWS&abbreviated=true)  
 Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS**, **PHP** and **Java**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
