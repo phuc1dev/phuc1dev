@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
 </div>
 
 ## 🌐 Contact
-<p align="center">
+<p align="left">
   <a href="https://fb.com/phuc1dev" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
