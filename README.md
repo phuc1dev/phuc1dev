@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-#0e44e8?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-0e44e8?style=flat&logo=mysql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
