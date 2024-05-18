@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/phuc1dev/phuc1dev/80d6e6991d03e4ead0c63e25ee25e83531ccf5b1/assets/svg/header.svg)
+![header](https://github.com/phuc1dev/phuc1dev/blob/main/assets/svg/header.svg)
 # 👋 Hi, I'm [Your Name]!
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in **NodeJS**, **PHP**, and **C#**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
