@@ -188,7 +188,7 @@
     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>
 
- <path id="nameTyping" d="M2,-3.8 H120" fill="none" stroke="none"/>
+ <path id="nameTyping" d="M2,-4 H120" fill="none" stroke="none"/>
 
   <!-- Text and animation for each letter -->
   <text font-family="Courier New" font-size="0.4em" fill="#fff" font-weight="bolder" letter-spacing="2">
