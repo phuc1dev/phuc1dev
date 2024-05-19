@@ -189,9 +189,9 @@
   </g>
 
   <path id="nameTyping">
-    <animate attributeName="d" from="m60,-3.5 h0" to="m38,-3.5 h150" dur="5s" begin="0s" fill="freeze" />
+    <animate attributeName="d" from="m50,-3.5 h0" to="m20,-3.5 h150" dur="5s" begin="0s" fill="freeze" />
     
-    <animate attributeName="d" from="m38,-3.5 h110" to="m50,-3.5 h150" dur="2s" begin="5s" fill="freeze" />
+    <animate attributeName="d" from="m20,-3.5 h110" to="m50,-3.5 h150" dur="2s" begin="5s" fill="freeze" />
     <animate attributeName="d" from="m50,-3.5 h110" to="m3,-3.5 h150" dur="2s" begin="7s" fill="freeze" />
   </path>
 
