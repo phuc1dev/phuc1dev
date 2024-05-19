@@ -21,11 +21,9 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
   <a href="https://fb.com/phuc1dev" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-
   <a href="https://t.me/phuc1dev" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-
   <a href="mailto:xyz.junomc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
