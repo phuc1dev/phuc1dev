@@ -189,10 +189,7 @@
   </g>
 
   <path id="nameTyping">
-    <animate attributeName="d" from="m50,-3.5 h0" to="m20,-3.5 h150" dur="5s" begin="0s" fill="freeze" />
-    
-    <animate attributeName="d" from="m20,-3.5 h110" to="m50,-3.5 h150" dur="2s" begin="5s" fill="freeze" />
-    <animate attributeName="d" from="m50,-3.5 h110" to="m3,-3.5 h150" dur="2s" begin="7s" fill="freeze" />
+    <animate attributeName="d" from="m10,-3.5 h0" to="m3,-3.5 h150" dur="5s" begin="0s" fill="freeze" />
   </path>
 
   <text font-family="Courier New" font-size="0.38em" fill="#fff" font-weight="bolder" letter-spacing="2">
