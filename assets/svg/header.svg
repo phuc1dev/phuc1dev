@@ -233,13 +233,13 @@
   </text>
 
   <!-- Animations -->
-  <animate xlink:href="#char1" attributeName="visibility" from="hidden" to="visible" begin="0s" dur="0.2s" fill="freeze" />
-  <animate xlink:href="#char2" attributeName="visibility" from="hidden" to="visible" begin="0.2s" dur="0.2s" fill="freeze" />
-  <animate xlink:href="#char3" attributeName="visibility" from="hidden" to="visible" begin="0.4s" dur="0.2s" fill="freeze" />
-  <animate xlink:href="#char4" attributeName="visibility" from="hidden" to="visible" begin="0.6s" dur="0.2s" fill="freeze" />
-  <animate xlink:href="#char5" attributeName="visibility" from="hidden" to="visible" begin="0.8s" dur="0.2s" fill="freeze" />
-  <animate xlink:href="#char6" attributeName="visibility" from="hidden" to="visible" begin="1s" dur="0.2s" fill="freeze" />
-  <animate xlink:href="#char7" attributeName="visibility" from="hidden" to="visible" begin="1.2s" dur="0.2s" fill="freeze" />
-  <animate xlink:href="#char8" attributeName="visibility" from="hidden" to="visible" begin="1.4s" dur="0.2s" fill="freeze" />
+  <animate xlink:href="#char1" attributeName="visibility" values="hidden;visible;hidden" begin="0s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
+  <animate xlink:href="#char2" attributeName="visibility" values="hidden;visible;hidden" begin="0.2s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
+  <animate xlink:href="#char3" attributeName="visibility" values="hidden;visible;hidden" begin="0.4s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
+  <animate xlink:href="#char4" attributeName="visibility" values="hidden;visible;hidden" begin="0.6s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
+  <animate xlink:href="#char5" attributeName="visibility" values="hidden;visible;hidden" begin="0.8s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
+  <animate xlink:href="#char6" attributeName="visibility" values="hidden;visible;hidden" begin="1s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
+  <animate xlink:href="#char7" attributeName="visibility" values="hidden;visible;hidden" begin="1.2s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
+  <animate xlink:href="#char8" attributeName="visibility" values="hidden;visible;hidden" begin="1.4s" dur="1.6s" repeatCount="indefinite" fill="freeze" />
 
 </svg>
