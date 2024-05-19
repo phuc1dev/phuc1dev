@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/phuc1dev/phuc1dev/main/assets/svg/header.svg)
+![header](https://raw.githubusercontent.com/phuc1dev/phuc1dev/main/assets/svg/header.svg?v=1)
 ![](https://komarev.com/ghpvc/?username=phuc1dev&label=PROFILE+VIEWS&abbreviated=true)  
 Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS**, **PHP** and **Java**. I love building scalable web applications, exploring new technologies, and contributing to open-source projects.
 
