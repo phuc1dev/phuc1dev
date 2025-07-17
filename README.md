@@ -15,8 +15,3 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
   <img src="https://github-readme-stats.vercel.app/api?username=phuc1dev&show_icons=true&theme=transparent&k=1" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuc1dev&theme=transparent&k=1" alt="GitHub Streak Stats"/>
 </div>
-
-## 🌐 Contact
-![](https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=facebook&logoColor=white)
-![](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram&logoColor=white)
-![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)
