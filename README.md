@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm a programmer specializing in **C#**, **NodeJS*
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phuc1dev&show_icons=true&theme=transparent&k=1" alt="GitHub Stats"/>
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=phuc1dev&theme=summer" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuc1dev&theme=transparent&k=1" alt="GitHub Streak Stats"/>
 </div>
